@@ -1,3 +1,14 @@
 
-MODULE 14 — BASIC JOIN
-A JOIN is used to combine data from two or more tables using a related column.
+MODULE 14 — BASIC JOIN :A JOIN is used to combine data from two or more tables using a related column.
+MODULE 15 — INNER JOIN: INNER JOIN = Get only the matching records from both tables
+MODULE 16 — LEFT JOIN: A LEFT JOIN in SQL returns all rows from the left table, plus matching rows from the right table. 
+MODULE 17 — RIGHT JOIN A RIGHT JOIN in SQL returns all rows from the right table, plus matching rows from the left table.
+MODULE 18 — FULL JOIN : A FULL OUTER JOIN returns all rows from both tables. Where there is no match, SQL puts NULL for the missing side.
+MODULE 19 — CROSS JOIN :A CROSS JOIN returns every possible combination of rows from two tables.
+MODULE 20 — UNION / UNION ALL : UNION combines the results and removes duplicate rows. UNION ALL combines the results but keeps duplicates.
+MODULE 21 — GROUP BY: GROUP BY is used to group rows that have the same value in one or more columns. It is commonly used with aggregate functions like COUNT(), SUM(), AVG(), MAX(), and MIN().
+MODULE 22 — HAVING: HAVING is used to filter groups after GROUP BY.
+MODULE 23 — EXISTS / NOT EXISTS :EXISTS checks whether a subquery returns at least one row. Non exists Find customers who do not have any order.
+MODULE 24 — ANY :ANY is used with a subquery to compare a value against at least one value returned by that subquery.
+MODULE 25 — ALL: ALL compares a value with every value returned by a subquery. ALL = "The condition must be true for every value.
+MODULE 26 — CASE :CASE is used to add if/else logic inside a SQL query.
